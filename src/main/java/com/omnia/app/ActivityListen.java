@@ -14,7 +14,7 @@ import com.omnia.app.model.Role;
 import com.omnia.app.repository.CompanyRepository;
 import com.omnia.app.repository.RoleRepository;
 import com.omnia.app.repository.UserRepository;
-@Component
+//@Component
 public class ActivityListen  implements CommandLineRunner{
 	
 	@Autowired
